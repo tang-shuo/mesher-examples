@@ -132,3 +132,5 @@ out
 gen
 
 *.tar
+protocol/grpc-go/helloworld/greeter_client/vendor/
+protocol/grpc-go/helloworld/greeter_server/vendor/
